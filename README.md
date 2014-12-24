@@ -1,1 +1,2 @@
-# Official SUGCH Repo
+# SUGCH Website
+Visit http://sugch.github.io
