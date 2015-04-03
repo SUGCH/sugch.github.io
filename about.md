@@ -1,15 +1,18 @@
 ---
 layout: page
-title: About
+title: Über uns
 permalink: /about/
 ---
 
-Some information about you!
+## Was ist die SUGCH?
+tbd
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+## Kontakt
+* via [Twitter](https://twitter.com/sugch)
+* via [Github Issue](https://github.com/SUGCH/sugch/issues)
 
-### Contact me
+Nach erster Kontaktaufnahme könne wir gerne E-Mails austauschen.
 
-[email@domain.com](mailto:email@domain.com)
+## Mitmachen
+Du möchtest gerne zur SUGCH beitragen? Toll! Kontaktiere uns via oben aufgeführte Kontakt Infos.
