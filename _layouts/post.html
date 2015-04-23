@@ -10,8 +10,10 @@ layout: default
   </div>
 
   <div class="date">
-    Geschrieben am {{ page.date | date: "%B %e, %Y" }}
+    Geschrieben am {{ page.date | date: "%e. %B %Y" }}
   </div>
+  <hr>
+  <h4>Kommentare</h4>
 
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
 </article>
