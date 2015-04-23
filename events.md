@@ -4,12 +4,15 @@ title: SUGCH Events
 permalink: /events/
 ---
 
-Die wichtigsten Aktivitäten der SUGCH finden offline statt und fördern so den regionalen Wissensaustausch.
-An den regelmässig stattfinden Treffen (i.d.R. 2x pro Jahr) treffen sich Sitecore interessierte zum networken, fachsimpeln
-und gemütlichen beisammen sein.
+Die wichtigsten Aktivitäten der SUGCH finden offline statt und fördern so
+den regionalen Wissensaustausch. An den regelmässig stattfinden Treffen
+(i.d.R. 2x pro Jahr) treffen sich Sitecore Enthusiasten zum networken,
+fachsimpeln und gemütlichen beisammen sein.
 
-Ob und wann das nächste Treffen geplant ist, erfährst Du auf [sugch.eventbrite.com](http://sugch.eventbrite.com). Die Anmeldung/Registrierung 
-steht allen offen.
+Ob und wann das nächste Treffen geplant ist, erfährst Du auf [diesem
+Blog](http://sugch.github.io). Anmeldungen nehmen wir jeweils via
+[sugch.eventbrite.com](http://sugch.eventbrite.com) entgegen. Die
+Anmeldung/Registrierung steht allen offen.
 
 Nachfolgend ein Überblick über vergangene Events.
 
