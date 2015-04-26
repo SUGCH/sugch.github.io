@@ -28,7 +28,7 @@ Bahnhof Olten in 10min zu Fuss erreichbar.
 ## Du möchtest präsentieren?
 Toll! Danke für die Initiative. Nach dem Treffen ist vor dem Treffen.
 Insofern kannst Du Dein Theme jederzeit in unser [Call for Papers
-Formular]() abfüllen. Wir werden Dich dann kontaktieren.
+Formular](http://goo.gl/forms/BlN7swGRMD) abfüllen. Wir werden Dich dann kontaktieren.
 
 Wir haben [weitere Informationen für Speakers](/speaker-infos/)
 zusammengestellt.
