@@ -13,7 +13,17 @@ MVP Programm von Sitecore näher. Das wird bestimmt den einen oder anderen
 unter den Zuhörern angespornt haben, sich noch stärker in der Community zu
 engagieren! :)
 
-
+<div>
+<div style="float:left">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/hashtag/SitecoreMVP?src=hash">#SitecoreMVP</a> award :) We got this awesome award at the <a href="https://twitter.com/sugch">@sugch</a> directly from <a href="https://twitter.com/Sitecore">@Sitecore</a>, thx (cc <a href="https://twitter.com/pieterbrink123">@pieterbrink123</a>) <a href="http://t.co/cN9rT4bkzl">pic.twitter.com/cN9rT4bkzl</a></p>&mdash; Kevin Brechbühl (@aquasonic) <a href="https://twitter.com/aquasonic/status/593804967019978752">April 30, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<div style="float:right">
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">First <a href="https://twitter.com/hashtag/SitecoreMVP?src=hash">#SitecoreMVP</a> award from <a href="https://twitter.com/Sitecore">@Sitecore</a> in good company with the 2 from <a href="https://twitter.com/unic">@unic</a>. Thank you! <a href="https://twitter.com/hashtag/AwardSpotting?src=hash">#AwardSpotting</a> :) <a href="http://t.co/oZUlf060Lz">pic.twitter.com/oZUlf060Lz</a></p>&mdash; Reto Hugi (@retohugi) <a href="https://twitter.com/retohugi/status/593878360486486016">April 30, 2015</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+</div>
+(wenn’s noch weitere Tweets von MVP Awards aus DACH gibt, bitte kommentieren)
 
 
 ## Die Präsentationen
