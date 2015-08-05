@@ -38,5 +38,5 @@ zusammengestellt.
 
 Nachfolgend ein Überblick über vergangene Events.
 
-* SUGCH 2015/1 (27.04.2015)
+* [SUGCH 2015/1](/SUGCH-zum-Zweiten) (27.04.2015)
 * [SUGCH 2014/1](/SUGCH-2014-1-rueckblick) (04.11.2014)
