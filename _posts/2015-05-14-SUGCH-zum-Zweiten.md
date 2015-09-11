@@ -37,7 +37,7 @@ einigen Vorteilen gegenüber einem Lucene.net Setup aufwarten.
 
 ### Hochverfügbarkeitslösungen mit Sitecore 8
 
-Die [Präsentation](https://github.com/SUGCH/sugch.github.io/blob/master/assets/Ramon-Bruelisauer_High-Availability-mit-Sitecore.pdf) von Roman Brühlisauer verschrieb sich der maximalen
+Die [Präsentation](https://github.com/SUGCH/sugch.github.io/blob/master/assets/Ramon-Bruelisauer_High-Availability-mit-Sitecore.pdf) von Ramon Brülisauer verschrieb sich der maximalen
 Verfügbarkeit einer Sitecore Installation. Was er zuerst in der Theorie
 erklärte, demonstrierte er anschliessend in einer beeindruckenden live Demo
 auf seinem Rechner.
