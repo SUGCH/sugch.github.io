@@ -35,7 +35,10 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+        <aside>
+            {% include ebwidget.countdown.html %}
+        </aside>
+        {{ content }}
     </div>
 
     <div class="wrapper-footer">
