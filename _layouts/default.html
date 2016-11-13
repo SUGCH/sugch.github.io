@@ -35,12 +35,12 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {% comment %}
-        <aside>
-            {% include ebwidget.countdown.html %}
-        </aside>
-        {% endcomment %}
-        {{ content }}
+      {% if site.ebwidget %}
+      <aside>
+        {% include ebwidget.countdown.html %}
+      </aside>
+      {% endif %}
+      {{ content }}
     </div>
 
     <div class="wrapper-footer">
