@@ -8,7 +8,7 @@ permalink: /about/
 * Die SUGCH ist der schweizweit einzige neutrale (Dienstleistungspartner unabhängige) Event für Sitecore Enthusiasten.
 * Die [Organisation des Events](/events) erfolgt ehrenamtlich.
 * Die Teilnahme ist für alle Sitecore interessierten kostenlos und nur aufgrund der Kapazität der Location beschränkt.
-* Die Kosten für den Event (Location, Snacks) werden von Sitecore Deutschland GmbH übernommen.
+* ~~Die Kosten für den Event (Location, Snacks) werden von -Sitecore Deutschland GmbH- übernommen.~~
 
 
 ## Kontakt
