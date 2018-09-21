@@ -8,7 +8,6 @@ permalink: /about/
 * Die SUGCH ist der schweizweit einzige neutrale (Dienstleistungspartner unabhängige) Event für Sitecore Enthusiasten.
 * Die [Organisation des Events](/events) erfolgt ehrenamtlich.
 * Die Teilnahme ist für alle Sitecore interessierten kostenlos und nur aufgrund der Kapazität der Location beschränkt.
-* ~~Die Kosten für den Event (Location, Snacks) werden von -Sitecore Deutschland GmbH- übernommen.~~
 
 
 ## Kontakt
@@ -28,7 +27,6 @@ Die SUGCH lebt in erster Linie von deren Teilnehmern und freiwilligen Präsentat
 Das Orga Team besteht aus folgenden Personen:
 
 * [Christian Hahnloser](https://twitter.com/legolas_2277)
-* [Kevin Brechbühl](https://twitter.com/aquasonic)
-* [Pascal Mathys](https://twitter.com/rootix)
+* [MArk Lowe](https://twitter.com/misterlow)
 * [Reto Hugi](https://twitter.com/retohugi)
 * [Tobias Studer](https://twitter.com/studert)
