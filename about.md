@@ -27,6 +27,6 @@ Die SUGCH lebt in erster Linie von deren Teilnehmern und freiwilligen Präsentat
 Das Orga Team besteht aus folgenden Personen:
 
 * [Christian Hahnloser](https://twitter.com/legolas_2277)
-* [MArk Lowe](https://twitter.com/misterlow)
+* [Mark Lowe](https://twitter.com/misterlow)
 * [Reto Hugi](https://twitter.com/retohugi)
 * [Tobias Studer](https://twitter.com/studert)
