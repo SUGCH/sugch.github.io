@@ -15,5 +15,5 @@ As the event will take place shortly after [Sitecore Symposium](https://symposiu
 Some speaker slots are still available - if you wish to participate, please fill out the [call for papers](https://goo.gl/forms/fu4lgalntrCyWrzR2) form now!
 We are looking forward to seeing you!
 
-* [Submit your topic for a preso](https://sugch.eventbrite.com)
-* [Register for the event](https://goo.gl/forms/fu4lgalntrCyWrzR2)
+* [Submit your topic for a preso](https://goo.gl/forms/fu4lgalntrCyWrzR2)
+* [Register for the event](https://sugch.eventbrite.com)
