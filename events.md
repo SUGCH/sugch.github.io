@@ -29,6 +29,7 @@ zusammengestellt.
 
 Nachfolgend ein Überblick über vergangene Events.
 
+* [SUGCH 2019/2](/SUGCH-2019-2) (04.10.2019)
 * [SUGCH 2019/1](/SUGCH-2019-1) (29.04.2019)
 * [SUGCH 2018/1](/SUGCH-2018-1) (30.10.2018)
 * [SUGCH 2016/2](/SUGCH-2016-2) (28.11.2016)
