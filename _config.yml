@@ -21,7 +21,7 @@ mailchimp_subscription: true
 
 # Eventbrite Widget
 # Displays the countdown widget if set to true.
-ebwidget: true
+ebwidget: false
 ebeventid: 66063366307
 
 # Includes an icon in the footer for each username you enter
